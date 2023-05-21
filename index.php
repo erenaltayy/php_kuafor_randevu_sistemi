@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="tr">
 
 <head>
   <meta charset="UTF-8">
@@ -52,7 +52,7 @@
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="#">Hakkımızda</a>
+            <a class="nav-link" href="https://github.com/erenaltayy/php_kuafor_randevu_sistemi">Hakkımızda</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="login.php">Giriş Yap</a>
@@ -89,7 +89,7 @@
 
   <footer class="footer">
     <p>Tüm hakları saklıdır &copy; 2023 Bilmem Ne Kuaför</p>
-    <p>Github linkine ulaşmak için <a href="">tıklayınız.</a></p>
+    <p>Github linkine ulaşmak için <a href="https://github.com/erenaltayy/php_kuafor_randevu_sistemi">tıklayınız.</a></p>
   </footer>
 
   
