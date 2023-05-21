@@ -41,7 +41,7 @@ if(isset($_POST["ad"]) && isset($_POST["username"]) && isset($_POST["telno"]) &&
 else{
 ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="tr">
 
 <head>
   <meta charset="UTF-8">
