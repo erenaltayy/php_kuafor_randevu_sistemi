@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
-  <title>Bilmem Ne Kuaför</title>
+  <title>Altay Kuaför Salonu</title>
   <style>
     body {
       background-color: #f8f9fa;
@@ -40,7 +40,7 @@
 
 <body>
   <header class="header">
-    <h1>Bilmem Ne Kuaför</h1>
+    <h1>Altay Kuaför Salonu</h1>
   </header>
 
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
@@ -88,7 +88,7 @@
   </div>
 
   <footer class="footer">
-    <p>Tüm hakları saklıdır &copy; 2023 Bilmem Ne Kuaför</p>
+    <p>Tüm hakları saklıdır &copy; 2023 Altay Kuaför Salonu</p>
     <p>Github linkine ulaşmak için <a href="https://github.com/erenaltayy/php_kuafor_randevu_sistemi">tıklayınız.</a></p>
   </footer>
 
