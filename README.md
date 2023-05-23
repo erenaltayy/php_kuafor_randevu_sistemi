@@ -9,6 +9,7 @@
 -Randevu Alma  
 -Randevu iptal etme  
 -Randevu güncelleme  
+-Sistemin kullanımını anlattığım videoya linkten ulaşabilirsiniz: https://www.youtube.com/watch?v=JSRBNoquqlA
 ## Nasıl Kullanılır  
 Kodları çalıştırabilmek için öncelikle XAMPP'a ihtiyacınız var.  
 XAMPP indirmek için şu linke tıklayabilirsiniz: https://www.apachefriends.org/index.html  
