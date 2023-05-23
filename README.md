@@ -26,7 +26,7 @@ Bu işlemlerden sonra tarayıcınızda 'localhost/klasor_adi/index.php' bağlant
 Veritabanına erişebilmek için:  
 XAMPP Kontrol Paneli'ni başlatın ve Apache ve MySQL servislerini çalıştırın.  
 Tarayıcınızda http://localhost/phpmyadmin adresini açın. PHPMyAdmin'e erişeceksiniz.  
-Sol tarafta "Yeni oluştur" seçeneğine tıklayın ve veritabanının adını girin.  
+Sol tarafta "Yeni oluştur" seçeneğine tıklayın ve veritabanının adını (kuafor) girin.  
 Oluşturulan veritabanına tıklayın ve üst sekmeden "İçe Aktar"ı seçin.  
 "İçe Aktar" sekmesinde, "Dosya Seç" düğmesine tıklayın.  
 Açılan pencereden GitHub projenizdeki .sql dosyasını seçin ve "Aç" düğmesine tıklayın.  
