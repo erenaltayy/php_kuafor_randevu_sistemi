@@ -26,7 +26,7 @@ Bu işlemlerden sonra tarayıcınızda 'localhost/klasor_adi/index.php' bağlant
 Veritabanına erişebilmek için çalıştırdığımız 'xampp-control.exe' üzerinden MySQL'in karşısındaki admin butonuna tıklayın.  
 ![capture_20230521133644101](https://github.com/erenaltayy/php_kuafor_randevu_sistemi/assets/85945886/640bee27-6b5a-4eae-84ee-62b32fb2af6c)
 
-Açılan sayfadan 'içe aktar' diyerek '.sql' uzantılı dosyayı yükleyiniz.  
+Açılan sayfadan 'içe aktar' diyerek '.sql' uzantılı dosyayı yükleyiniz. Başka özellikleri değiştirmeden sayfanın en altındaki içe aktar butonuna basınız.  
 ![capture_20230521133701156](https://github.com/erenaltayy/php_kuafor_randevu_sistemi/assets/85945886/c6758ef0-451d-4c13-96fc-7d1ea9d3e643)
 ![capture_20230521133715103](https://github.com/erenaltayy/php_kuafor_randevu_sistemi/assets/85945886/60a2cf52-8c27-41df-9e4b-4ea94869739d)
 
